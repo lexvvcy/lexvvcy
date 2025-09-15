@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 **[EE student @ NTU](https://www.ntu.edu.tw)** | Learning programming & hardware design
 
