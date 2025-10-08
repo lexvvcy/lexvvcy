@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! I'm Alex👋
 
 **[EE student @ NTU](https://www.ntu.edu.tw)** | Learning programming & software/hardware design
 
