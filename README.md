@@ -4,7 +4,7 @@
 
 Interested in **robotics**, **LLMs**, **VLMs**, and **FinTech** 💰
 
-🌱 Currently exploring embodied AI, MLLMs Accleration applications 🤖 
+🌱 Currently exploring embodied AI, MLLMs acceleration applications 🤖 
 
 <p align="left">
   <!-- editors / shells -->
