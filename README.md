@@ -2,7 +2,7 @@
 
 **[EE student @ NTU](https://www.ntu.edu.tw)** | Learning programming & software/hardware design
 
-Interested in **robotics**, **LLMs**, **VLMs**, and **FinTech** 💰
+Interested in **robotics**, **Generative AI**, and **FinTech** 💰
 
 🌱 Currently exploring embodied AI, MLLMs acceleration applications 🤖 
 
